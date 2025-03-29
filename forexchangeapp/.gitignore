@@ -1,0 +1,6 @@
+# secret
+.env
+# package
+*.json
+# repository
+node_modules/
