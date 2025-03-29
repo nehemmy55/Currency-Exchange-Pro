@@ -1,6 +1,8 @@
 # Currency-Exchange-Pro
 
-Key Features
+**Key Features**
+
+
 Real-time exchange rates from reliable financial APIs
 Simple REST endpoints for currency conversion
 Lightweight & fast backend service
