@@ -1,26 +1,49 @@
-# Currency-Exchange-Pro
-- Deployment Guide
+# Overview
 
-## Prerequisites
-- Ubuntu server (20.04/22.04 recommended)
-- Node.js 18.x
-- npm 8.x+
-- PM2 (for process management)
-- Nginx (as reverse proxy)
+Currency Exchange Pro is a web application that allows users to convert currencies in real time using the latest exchange rates. The application fetches live exchange rate data from external APIs and provides a seamless user experience.
 
-## Installation Steps
+Features
 
-### 1. Server Setup
-```bash
-# Update system
-sudo apt update && sudo apt upgrade -y
+Real-time currency conversion
 
-# Install Node.js
-curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
-sudo apt install -y nodejs
+Support for multiple currencies
 
-# Install PM2 globally
-sudo npm install -g pm2
+User-friendly interface
+
+Deployed on a cloud server for accessibility
+
+Technologies Used
+
+Frontend: HTML, CSS, JavaScript
+
+Backend: Node.js, Express.js
+
+APIs: Exchange rate API 
 
 
-**descriptive video :https://youtu.be/pIMgsGCDTZA
+** Deployment Guide for all web servers **
+
+install npm
+
+install pm2
+
+Update each server
+
+Move application files on each except the load-balance server
+
+Configure nginx on the server 
+
+secure domain 
+
+configure load balance server(lb)
+
+
+
+** How to run the Application **
+
+go to web browser >> type (https://wwww.allnehemy.tech) >> click on enter
+
+
+** Descriptive video **
+
+:https://drive.google.com/file/d/1y4kzQ-CLihdBN-FSzCiRGPNr5OVeXXfw/view?usp=sharing
