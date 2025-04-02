@@ -45,5 +45,4 @@ go to web browser >> type (https://wwww.allnehemy.tech) >> click on enter
 
 
 ** Descriptive video **
-
-:https://drive.google.com/file/d/1y4kzQ-CLihdBN-FSzCiRGPNr5OVeXXfw/view?usp=sharing
+: https://drive.google.com/file/d/1y4kzQ-CLihdBN-FSzCiRGPNr5OVeXXfw/view?usp=sharing
