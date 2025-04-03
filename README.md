@@ -1,6 +1,8 @@
 # Overview
 
-Currency Exchange Pro is a web application that allows users to convert currencies in real time using the latest exchange rates. The application fetches live exchange rate data from external APIs and provides a seamless user experience.
+** Currency Exchange Pro **
+
+is a web application that allows users to convert currencies in real time using the latest exchange rates. The application fetches live exchange rate data from external APIs and provides a seamless user experience.
 
 Features
 
@@ -41,7 +43,7 @@ configure load balance server(lb)
 
 ** How to run the Application **
 
-go to web browser >> type (https://wwww.allnehemy.tech) >> click on enter
+go to web browser >> type (https://www.allnehemy.tech) >> click on enter
 
 
 ** Descriptive video **
